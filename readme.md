@@ -11,3 +11,11 @@ here's a starting tutorial. [medium](https://medium.com/@semuserable/simplest-ty
 
 #### more references
 [Wiki](https://en.wikipedia.org/wiki/TypeScript)
+
+in the referenced tutorial above the author structured the <b>main.ts</b> code 
+start from creating interface, object literals, function declaration and then finally run/test the code.
+but i decided for my learning purpose i started based on this coding style guide [links](https://javascript.info/coding-style#function-placement)
+
+
+
+
